@@ -1,7 +1,7 @@
 # Portfolio de Eleazar Del Rosario
 
 ## 👋 Sobre mí
-¡Hola soy Eleazar, un estudiante de desarrollo de aplicaciones web con interés por la creación de software multiplataforma.
+¡Hola! soy Eleazar, un estudiante de desarrollo de aplicaciones web con interés por la creación de software multiplataforma.
 
 ## 🚀 Habilidades
 Estas algunas de las tecnologías y herramientas que manejo:
@@ -14,7 +14,7 @@ A continuación presento un resumen de los proyectos incluidos en este portafoli
 
 ### 1. [Tienda World Of Warcraft]
 * **Descripción:** [Página web de una tienda online para comprar las expansiones y mensualidad del famoso juego "World Of Warcraft"]
-* **Tecnologías:** [HTML, CSS, PHP, JS]
+* **Tecnologías:** [CSS, PHP, JS]
 * **Enlace al repositorio:** [https://github.com/Eleaazar29/Tienda-World-Of-Warcraft.git]
 
 ### 2. [Tienda Bereber]
@@ -24,5 +24,5 @@ A continuación presento un resumen de los proyectos incluidos en este portafoli
 
 ### 3. [Tienda Call of Dutty Zombies]
 * **Descripción:** [Página web de una tienda online para comprar armas y bebidas ficticias relacionadas con los juegos de Call of Dutty Zombies]
-* **Tecnologías:** [HTML, CSS, JS]
+* **Tecnologías:** [CSS, JS, MySQL]
 * **Enlace al repositorio:** [https://github.com/Eleaazar29/Tienda-Call-of-Dutty-Zombies.git]
